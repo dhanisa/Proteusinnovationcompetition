@@ -1,3 +1,3 @@
 # Dhanisa's Responsive Portfolio Website
-https://dhanisa.github.io/Proteusinnovationcompetition/
-Feel free to keep checking for updated projects!
+To view the web application, please click here: https://dhanisa.github.io/Proteusinnovationcompetition/
+For the Proteus Innovation 2020 competition details, please click here: https://proteusic.com/
